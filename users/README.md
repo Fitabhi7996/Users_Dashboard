@@ -26,10 +26,27 @@ To start the project, follow these steps:
 ```bash
 git clone https://github.com/your-username/user-management-system.git
 ```
-### Usage
+1. Navigate to the project directory:
+```bash
+cd users
+```
+ 
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+## Usage
 
 Upon launching the application, you will see a list of users with their details.
 
 - Use the "Add" button to add a new user. Fill in the required details and click "Add User".
 - To edit a user, click the "Edit" button next to the user you want to modify. Update the details and click "Update User".
 
+## Error Handling
+If there is an error while fetching or manipulating user data from the backend API, an error message will be displayed to the user. The application will inform the user about the error and prompt them to try again later. This ensures a smooth user experience even in cases of unexpected errors or network issues.
