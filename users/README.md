@@ -25,3 +25,11 @@ To start the project, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/user-management-system.git
+```
+### Usage
+
+Upon launching the application, you will see a list of users with their details.
+
+- Use the "Add" button to add a new user. Fill in the required details and click "Add User".
+- To edit a user, click the "Edit" button next to the user you want to modify. Update the details and click "Update User".
+
