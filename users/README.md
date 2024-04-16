@@ -26,17 +26,16 @@ To start the project, follow these steps:
 ```bash
 git clone https://github.com/your-username/user-management-system.git
 
+
 2. Navigate to the project directory:
 ```bash
-cd user-management-system
+cd users 
 
 3. Install dependencies:
 ```bash
 npm install
-4. Change Directory:
-```bash
-cd users
-5. Start the development server:
+
+4. Start the development server:
 ```bash
 npm start
 Open your web browser and visit http://localhost:3000 to view the application.
