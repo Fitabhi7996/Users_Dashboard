@@ -24,7 +24,7 @@ To start the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/user-management-system.git
+git clone https://github.com/Fitabhi7996/Users_Dashboard.git
 ```
 1. Navigate to the project directory:
 ```bash
